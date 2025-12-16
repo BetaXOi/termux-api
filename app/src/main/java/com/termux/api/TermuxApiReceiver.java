@@ -8,7 +8,7 @@ import android.content.Intent;
 import android.provider.Settings;
 import android.widget.Toast;
 
-import com.termux.api.apis.AdbWifiAPI
+import com.termux.api.apis.AdbWifiAPI;
 import com.termux.api.apis.AudioAPI;
 import com.termux.api.apis.BatteryStatusAPI;
 import com.termux.api.apis.BrightnessAPI;
